@@ -1,2 +1,2 @@
 # tic-tac-toe-plus
-ultimate tic tac toe.
+ ==THE ULTIMATE TIC TAC TOE==
