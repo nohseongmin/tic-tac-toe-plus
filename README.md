@@ -1,9 +1,7 @@
-# tic-tac-toe-plus
+# Tic-Tac-Toe Plus
 
-## THE ULTIMATE TIC TAC TOE
-
-기본 틱택토 규칙에 추가 기능을 더한 틱택토 게임 프로젝트입니다.
+A tic-tac-toe project with additions to the standard rules.
 
 ## License
 
-Released under the [MIT License](LICENSE).
+[MIT](LICENSE).
